@@ -1,1 +1,1 @@
-Pkg update && pkg upgrade && Termux-setup-storage && pkg install openjdk-17-jdk && pkg install git && git clone https://github.com/Sotravil/ChatSJV.git && cd ChatSJV
+Pkg update && pkg upgrade && Termux-setup-storage && pkg install openjdk-17-jdk && git clone https://github.com/Sotravil/ChatSJV.git && cd ChatSJV
